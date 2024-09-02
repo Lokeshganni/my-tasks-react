@@ -1,0 +1,23 @@
+.tags-li-container {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.tags-btn {
+  background-color: transparent;
+  color: white;
+  border: 1px solid #f3aa4e;
+  cursor: pointer;
+  outline: none;
+  padding: 5px 14px;
+  border-radius: 20px;
+  font-size: 16px;
+}
+
+.tags-btn:hover {
+  transform: scale(1.01);
+}
+
+.tags-btn:active {
+  transform: scale(0.96);
+}
